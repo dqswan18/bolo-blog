@@ -10,6 +10,7 @@ Frank笔记
 
 ### 最新
 
+* [苦难的意义](https://frank2019.me/articles/2020/09/11/1599793411863.html)
 * [GTO推荐策略的分析](https://frank2019.me/articles/2020/09/01/1598944987736.html)
 * [被城市遗忘的角落](https://frank2019.me/articles/2020/08/29/1598688631894.html)
 * [《八佰》观后感](https://frank2019.me/articles/2020/08/21/1597997031263.html)
@@ -29,7 +30,6 @@ Frank笔记
 * [【转载】世界不应该是这样的](https://frank2019.me/articles/2020/04/09/1586424996813.html)
 * [公司内部建设的重要性](https://frank2019.me/articles/2020/03/31/1585645413710.html)
 * [鬼子来了，一部超越时代的影片](https://frank2019.me/articles/2020/03/25/1585120980598.html)
-* [VPS常用脚本](https://frank2019.me/articles/2020/03/25/1585120880298.html)
 
 
 
