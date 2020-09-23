@@ -10,6 +10,7 @@ Frank笔记
 
 ### 最新
 
+* [<蛤蟆先生去看心理医生>思维导图](https://frank2019.me/articles/2020/09/22/1600787080690.html)
 * [你家的祖屋属于你家的么?](https://frank2019.me/articles/2020/09/17/1600321716966.html)
 * [苦难的意义](https://frank2019.me/articles/2020/09/11/1599793411863.html)
 * [GTO推荐策略的分析](https://frank2019.me/articles/2020/09/01/1598944987736.html)
@@ -29,7 +30,6 @@ Frank笔记
 * [危机四伏的2020，既是困难，也是机遇！](https://frank2019.me/articles/2020/04/20/1587364716539.html)
 * [KK没有位置低级别策略](https://frank2019.me/articles/2020/04/16/1587006087753.html)
 * [【转载】世界不应该是这样的](https://frank2019.me/articles/2020/04/09/1586424996813.html)
-* [公司内部建设的重要性](https://frank2019.me/articles/2020/03/31/1585645413710.html)
 
 
 
