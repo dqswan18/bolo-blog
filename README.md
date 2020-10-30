@@ -10,6 +10,7 @@ Frank笔记
 
 ### 最新
 
+* [/bin/sh: python: not found 问题的解决](https://frank2019.me/articles/2020/10/30/1604026173105.html)
 * [ServerStatus中文版部署](https://frank2019.me/articles/2020/10/28/1603856210593.html)
 * [国庆成都之行](https://frank2019.me/articles/2020/10/14/1602662318272.html)
 * [最大剥削策略](https://frank2019.me/articles/2020/09/27/1601195250306.html)
@@ -29,7 +30,6 @@ Frank笔记
 * [味遇良品上线一个月总结](https://frank2019.me/articles/2020/06/26/1593157426299.html)
 * [一个健康的社会需要适当的弹性](https://frank2019.me/articles/2020/06/03/1591193328342.html)
 * [后浪观后感](https://frank2019.me/articles/2020/05/05/1588650794451.html)
-* [[转载]如果一个民族到没有一个人敢出来说真话，这个民族就没有希望----寻找林昭 ](https://frank2019.me/articles/2020/05/03/1588518636916.html)
 
 
 
