@@ -10,6 +10,8 @@ Frank笔记
 
 ### 最新
 
+* [超额下注策略](https://frank2019.me/articles/2020/11/13/1605249109544.html)
+* [资产证券化对中国的影响](https://frank2019.me/articles/2020/11/12/1605164985437.html)
 * [/bin/sh: python: not found 问题的解决](https://frank2019.me/articles/2020/10/30/1604026173105.html)
 * [ServerStatus中文版部署](https://frank2019.me/articles/2020/10/28/1603856210593.html)
 * [国庆成都之行](https://frank2019.me/articles/2020/10/14/1602662318272.html)
@@ -28,8 +30,6 @@ Frank笔记
 * [牌普分析](https://frank2019.me/articles/2020/07/23/1595472884919.html)
 * [GTO与阻断牌效应](https://frank2019.me/articles/2020/07/11/1594402044352.html)
 * [味遇良品上线一个月总结](https://frank2019.me/articles/2020/06/26/1593157426299.html)
-* [一个健康的社会需要适当的弹性](https://frank2019.me/articles/2020/06/03/1591193328342.html)
-* [后浪观后感](https://frank2019.me/articles/2020/05/05/1588650794451.html)
 
 
 
