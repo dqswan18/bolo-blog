@@ -10,6 +10,8 @@ Frank笔记
 
 ### 最新
 
+* [在Ubuntu中禁用IPV6协议](https://frank2019.me/articles/2020/11/30/1606707346964.html)
+* [历史与记忆](https://frank2019.me/articles/2020/11/29/1606640181508.html)
 * [超额下注策略](https://frank2019.me/articles/2020/11/13/1605249109544.html)
 * [资产证券化对中国的影响](https://frank2019.me/articles/2020/11/12/1605164985437.html)
 * [/bin/sh: python: not found 问题的解决](https://frank2019.me/articles/2020/10/30/1604026173105.html)
@@ -28,8 +30,6 @@ Frank笔记
 * [路线决定未来](https://frank2019.me/articles/2020/07/30/1596091390072.html)
 * [更换博客系统BOLO](https://frank2019.me/articles/2020/07/23/1595515472630.html)
 * [牌普分析](https://frank2019.me/articles/2020/07/23/1595472884919.html)
-* [GTO与阻断牌效应](https://frank2019.me/articles/2020/07/11/1594402044352.html)
-* [味遇良品上线一个月总结](https://frank2019.me/articles/2020/06/26/1593157426299.html)
 
 
 
