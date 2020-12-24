@@ -10,6 +10,7 @@ Frank笔记
 
 ### 最新
 
+* [在不利位置的价值下注与诈唬下注比率](https://frank2019.me/articles/2020/12/24/1608776292603.html)
 * [float的技巧](https://frank2019.me/articles/2020/12/11/1607652036254.html)
 * [在Ubuntu中禁用IPV6协议](https://frank2019.me/articles/2020/11/30/1606707346964.html)
 * [历史与记忆](https://frank2019.me/articles/2020/11/29/1606640181508.html)
@@ -29,7 +30,6 @@ Frank笔记
 * [人生重要的是经历而非结果](https://frank2019.me/articles/2020/08/01/1596268406098.html)
 * [生活的本质](https://frank2019.me/articles/2020/08/01/1596257432860.html)
 * [路线决定未来](https://frank2019.me/articles/2020/07/30/1596091390072.html)
-* [更换博客系统BOLO](https://frank2019.me/articles/2020/07/23/1595515472630.html)
 
 
 
